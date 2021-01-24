@@ -1,12 +1,8 @@
 # Custom compiled php for repl.it
 
-## To start
-
-Use `Ctrl-Shift-S` to open the terminal, and execute `bash ./start.sh -S 0.0.0.0:8080`.
-
 ## Warnings
 
-Do not touch `php` and `lib`, or it may be broken.
+Do not touch `php` and `lib`, or it may break.
 
 ## Compiling
 

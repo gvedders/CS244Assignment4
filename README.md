@@ -1,11 +1,13 @@
-# Custom compiled php for repl.it
+# Starter Code for CS244 Assignment 1
+
+## Custom compiled php for repl.it
 (Based on the work found at https://repl.it/@maple3142/PHP-7410-Cusom)
 
-## Warnings
+### Warnings
 
 Do not touch `php` and `lib`, or it may break.
 
-## Compiling
+### Compiling
 
 * Compiled on WSL 2 + Debian Unstable
 * php 7.4.10
